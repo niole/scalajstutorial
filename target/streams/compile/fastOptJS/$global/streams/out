@@ -1,0 +1,17 @@
+[0m[[0minfo[0m] [0mFast optimizing /home/niole/code/javascript/scalatest/target/scala-2.11/scala-js-tutorial-fastopt.js[0m
+[0m[[0mdebug[0m] [0mLinker: Read info: 368523 us[0m
+[0m[[0mdebug[0m] [0mLinker: Compute reachability: 346678 us[0m
+[0m[[0mdebug[0m] [0mLinker: Assemble LinkedClasses: 1161222 us[0m
+[0m[[0mdebug[0m] [0mLinker: cache stats: reused: 0 -- invalidated: 3756 -- trees read: 250[0m
+[0m[[0mdebug[0m] [0mLinker: 1904137 us[0m
+[0m[[0mdebug[0m] [0mInc. optimizer: Batch mode: true[0m
+[0m[[0mdebug[0m] [0mInc. optimizer: Incremental part: 852689 us[0m
+[0m[[0mdebug[0m] [0mInc. optimizer: Optimizing 724 methods.[0m
+[0m[[0mdebug[0m] [0mInc. optimizer: Optimizer part: 950243 us[0m
+[0m[[0mdebug[0m] [0mInc. optimizer: 1836487 us[0m
+[0m[[0mdebug[0m] [0mRefiner: Compute reachability: 163005 us[0m
+[0m[[0mdebug[0m] [0mRefiner: Assemble LinkedClasses: 37576 us[0m
+[0m[[0mdebug[0m] [0mRefiner: 202994 us[0m
+[0m[[0mdebug[0m] [0mEmitter: Class tree cache stats: reused: 0 -- invalidated: 43[0m
+[0m[[0mdebug[0m] [0mEmitter: Method tree cache stats: resued: 0 -- invalidated: 107[0m
+[0m[[0mdebug[0m] [0mEmitter (write output): 582764 us[0m
