@@ -4,3 +4,6 @@ run
 fastOptJS
 reload
 fastOptJS
+scala
+run
+fastOptJS
